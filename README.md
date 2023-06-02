@@ -17,7 +17,7 @@ I studied computer science and music in university. To date, professional experi
   <a href="https://www.python.org"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /></a>
   <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="Typescript" /></a>  
 <a href="https://www.gnu.org/software/bash/"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" /></a>
-<a href="https://rust-lang.org"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" width="48" height="48" alt="crab" /></a>
+<a href="https://crablang.org"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" width="48" height="48" alt="crab" /></a>
 <a href="https://juce.com"><img src="https://assets.juce.com/juce/JUCE_banner_github.png" width="48" height="48" alt="Juce" /></a>
   <a href="https://www.reactjs.org"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" /></a>
   <a href="https://www.nextjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="48" height="48" alt="NextJs" /></a>
